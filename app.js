@@ -170,3 +170,15 @@
 
 
 // N3
+
+
+{
+    let n = 10
+    let k = 3
+    let count = 0
+    while (n >= k) {
+        n -= k
+        count++
+    }
+    console.log(`butun son ${count} qoldiq son ${n}`);
+}
