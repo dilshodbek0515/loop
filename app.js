@@ -127,13 +127,46 @@
 
 // N10
 
-{
-    let n = 5;
-    let S = 0;
+// {
+//     let n = 2;
+//     let s = 0;
 
-    for (let i = 1; i <= n; i++) {
-        S += 1 / i;
-    }
+//     for (let i = 1; i <= n; i++) {
+//         s += 1 / i;
+//     }
+//     console.log(s);
+// }
 
-    console.log(S);
-}
+
+
+
+
+// While masala
+
+// N1
+// {
+//     let a = 54
+//     let b = 10
+//     while (a > b) {
+//         a -= b
+//     }
+//     console.log(a);
+// }
+
+
+
+// N2
+// {
+//     let a = 100
+//     let b = 2
+//     let count = 0
+//     while (a >= b) {
+//         a -= b
+//         count++
+//     }
+//     console.log(count);
+// }
+
+
+
+// N3
