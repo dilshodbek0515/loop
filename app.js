@@ -171,14 +171,90 @@
 
 // N3
 
+// {
+//     let n = 10
+//     let k = 3
+//     let count = 0
+//     while (n >= k) {
+//         n -= k
+//         count++
+//     }
+//     console.log(`butun son ${count} qoldiq son ${n}`);
+// }
 
-{
-    let n = 10
-    let k = 3
-    let count = 0
-    while (n >= k) {
-        n -= k
-        count++
-    }
-    console.log(`butun son ${count} qoldiq son ${n}`);
-}
+
+
+// N4
+
+// {
+
+// let power = 1;
+
+// while (power < n) {
+//     power *= 3;
+// }
+
+// if (power === n) {
+//     console.log("3-ning darajasi");
+// } else {
+//     console.log("3-ning darajasi emas");
+// }
+
+
+// }
+
+// 5
+
+// {
+//     let n = 8;
+//     let k = 0;
+//     let power = 1;
+
+//     while (power < n) {
+//         power *= 2;
+//         k++;
+//     }
+
+//     if (power === n) {
+//         console.log("k =", k);
+//     } else {
+//         console.log("n 2 ning darajasi emas");
+//     }
+
+// }
+
+// 6
+
+// {
+//     let n = 8;
+//     let result = 1;
+
+//     while (n > 0) {
+//         result *= n;
+//         n -= 2;
+//     }
+
+//     console.log(result);
+
+// }
+
+// 7
+
+// {
+//     let n = 6;
+//     let k = 1
+//     while (k * k <= n) {
+//         k++
+//     }
+//     console.log(k);
+// }
+
+// 8
+// {
+//     let n = 2;
+//     let k = 4
+//     while (n * n <= k) {
+//         n++
+//     }
+//     console.log(n);
+// }
